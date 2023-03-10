@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Hi Stricker",
+    "price": 200,
+    "description": "Strike your opponent with a blow",
+    "images": [
+      "https://letspartysalinas.com/wp-content/uploads/2015/02/Hi-Striker-Rentals-California-700x525.jpg"
+    ],
+    "creationAt": "2023-03-09T05:03:19.000Z",
+    "updatedAt": "2023-03-09T05:03:53.000Z",
+    "category": {
+      "id": 1,
+      "name": "Game",
+      "image": "https://images.pexels.com/photos/1782146/pexels-photo-1782146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "creationAt": "2023-03-09T05:03:19.000Z",
+      "updatedAt": "2023-03-09T05:03:19.000Z"
+    }
+  },
+  {
+    "id": 2,
+    "title": "Punch Challenge",
+    "price": 150,
+    "description": "Increase your score with the punch",
+    "images": [
+      "https://www.wwe.com/f/styles/gallery_img_l/public/photo/image/2011/04/NXT_060_Photo_003.jpg"
+    ],
+    "creationAt": "2023-03-09T05:03:19.000Z",
+    "updatedAt": "2023-03-09T05:03:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Game",
+      "image": "https://images.pexels.com/photos/1782146/pexels-photo-1782146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "creationAt": "2023-03-09T05:03:19.000Z",
+      "updatedAt": "2023-03-09T05:03:19.000Z"
+    }
+  },
+  {
+    "id": 3,
+    "title": "Bow & Arrow",
+    "price": 300,
+    "description": "Hit the bulls eye",
+    "images": [
+      "https://images.pexels.com/photos/6669103/pexels-photo-6669103.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "creationAt": "2023-03-09T05:03:19.000Z",
+    "updatedAt": "2023-03-09T05:03:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Game",
+      "image": "https://images.pexels.com/photos/1782146/pexels-photo-1782146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "creationAt": "2023-03-09T05:03:19.000Z",
+      "updatedAt": "2023-03-09T05:03:19.000Z"
+    }
+  },
+  {
+    "id": 4,
+    "title": "Catch Fish",
+    "price": 100,
+    "description": "The larger your catch the more points",
+    "images": [
+      "https://img.gg.deals/55/29/0941c2f4f3a97ec025050c6956e2506f0481_912cr476.jpg"
+    ],
+    "creationAt": "2023-03-09T05:03:19.000Z",
+    "updatedAt": "2023-03-09T05:03:19.000Z",
+    "category": {
+      "id": 1,
+      "name": "Game",
+      "image": "https://images.pexels.com/photos/1782146/pexels-photo-1782146.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "creationAt": "2023-03-09T05:03:19.000Z",
+      "updatedAt": "2023-03-09T05:03:19.000Z"
+    }
+  }
+]
